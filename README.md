@@ -1,9 +1,9 @@
 osu!card
 ========
 
-osu!card is my own [osu!api](https://github.com/peppy/osu-api/wiki) powered signature made in 6 hours out of boredom when the api went public. I'm releasing this as I'm working on the next version of the card.
+osu!card is my own [osu!api](https://github.com/peppy/osu-api/wiki) powered signature made in 6 hours out of boredom when the API went public. I'm releasing this as I'm working on the next version of the card.
 
-This signature makes use of [osu!APIlib](https://github.com/Repflez/osu-API-lib) for fetching and caching osu! data. Data is cached at osu!APIlib defaults.
+This signature makes use of [osu!APIlib](https://github.com/Repflez/osu-API-lib) for fetching and caching osu! data. Data is cached at osu!APIlib defaults and will be refecthed if its cache file is deleted. Avatars are cached for 24 hours.
 
 Setting up
 ==========
